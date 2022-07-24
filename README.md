@@ -18,3 +18,5 @@ Bike tail light project based on the ESP8266 and NeoPixel
 * M3 female-female PCB spacer 8mm x 4
 * M3 x 5mm round head hex screw x 4
 * 1s 650mah Lipo battery and connector
+
+Thingiverse: https://www.thingiverse.com/thing:5088057
